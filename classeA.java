@@ -19,4 +19,13 @@ class classeA {
   public float getA2(){
     return A2;
   }
+
+  public void MA1(){
+    System.out.println("O nome do metodo é MA1");
+  }
+
+
+  public void MA2(){
+    System.out.println("O nome do metodo é MA2");
+  }
 }

@@ -28,4 +28,8 @@ class classeA {
   public void MA2(){
     System.out.println("O nome do metodo é MA2");
   }
+
+  public void MA3() {
+    System.out.println("Alteração a classeA a partir do clone");
+}
 }

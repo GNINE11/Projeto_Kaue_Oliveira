@@ -25,6 +25,6 @@ public class classeC {
   }
 
   public void MC2() {
-      System.out.println("Método MC2");
+      System.out.println("Metodo MC2");
   }
 }
